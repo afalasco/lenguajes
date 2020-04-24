@@ -18,7 +18,7 @@ int main()
         op=menu();
         if (op==1) {
             float area,base,altura;
-            printf("Ingrese la base y la altura del rectángulo\n");
+            printf("Ingrese la base y la altura del rectangulo\n");
             scanf("%f%f",&base,&altura);
             area=rectangulo(base,altura);
             printf("El valor del area del rectangulo es %f\n",area);
