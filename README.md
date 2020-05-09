@@ -1,2 +1,2 @@
-# Lenguajes Electrònicos
+# Lenguajes Electrónicos
 
